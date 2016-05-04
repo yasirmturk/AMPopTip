@@ -96,7 +96,7 @@
 
 - (void)layoutSubviews {
     [super layoutSubviews];
-    [self setup];
+//    [self setup];
 }
 
 - (void)setup {
